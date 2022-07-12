@@ -1,0 +1,108 @@
+Détermination de la distance hyperfocale
+----------------------------------------
+
+La distance hyperfocale permet d'obtenir la plus grande plage de netteté
+possible, elle dépend de la focale et de l'ouverture. Elle n'a d'intérêt
+pratique que pour les courtes focales (grands angles) qui permettent d'avoir une
+profondeur de champ élevée. Elle se règle sur la bague de mise au point. Bien
+que cette distance se calcule, la mise en pratique n'est pas si aisée que cela,
+ce pour plusieurs raisons :
+
+- il est très difficile d'évaluer la netteté dans le viseur avec un grand angle.
+  On peut palier ce problème en affichant l'image avec un facteur de
+  grossissement élevé ;
+
+- avec les objectifs avec couplage (cas le plus courant), il faut pouvoir
+  appuyer sur le bouton de test de profondeur de champ et tourner la bague de
+  mise au point en même temps. Pratiquement, le boitier doit être monté sur un
+  trépied pour faciliter la manoeuvre ;
+
+- l'échelle des distances sur la bague de mise au point est parfois très
+  compressée. Cela ne facilite pas la reproductibilité du réglage de
+  l'hyperfocale ;
+
+- depuis l'apparition du numérique, les indications de profondeur de champ ont
+  disparu des objectifs à focale fixe ;
+
+Traditionnellement, il faut la calculer l'hyperfocale (`formulaire de calcul
+<formulaires-photographie.rst>`_), et soit :
+
+- la mesurer entre un mur et le plan du film du photoscope et enfin faire la
+  mise au point sur le mur ;
+- régler cette distance sur la bague de mise au point.
+
+Si ce n'est pas bien fait (erreur de calcul, mesure de la distance entre le mur
+et le entille frontale de l'objectif au lieu du plan du film, repères de
+distance de l'objetif imprécis, etc), il y a toutes les chances pour que la
+netteté à l'infini soit affectée.
+
+Avant d'exposer ma méthode, il faut procéder à quelques réglages du photoscope :
+
+- autoriser le déclenchement sans objectif ("Dec. sans obj." à "activé) ;
+- aucune limite temporelle à la loupe d'assistance à la mise au point ("Tmp
+  gross. au p." à "Aucune limite") ;
+- et pour utiliser la loupe d'assistance à la mise au point : "Loupe mise pt"
+  puis touche centrale pour continuer ("x 1.0" -> "x 5.9" -> "x 11.7").
+
+Ma méthode part d'une des caractéristiques de l'hyperfocale : la netteté à
+l'infini. On s'occupe de la netteté à l'infini en priorité, la netteté au plus
+près en découlera naturellement. Cela ne nécessite aucun calcul préalable et le
+fait de faire la mise au point vers l'inifini minimise les considérations sur le
+repère à prendre sur le photoscope. Concrètement, je procède ainsi :
+
+- je règle l'ouverture à la valeur désirée, le plus souvent f/8 ;
+- je tourne la bague de distances sur la valeur minimale ;
+- j'affiche l'image du capteur sur l'écran arrière et j'y applique un fort
+  facteur de grossissement (par exemple X10) pour pouvoir observer la netteté le
+  plus confortablement possible ;
+- je tourne la bague des distances vers l'infini jusqu'à ce que l'image à
+  l'infini soit parfaitement nette (il faut s'arrêter dès que c'est net !);
+
+Le facteur essentiel de cette méthode repose sur le fait que l'ouverture est
+fixée à sa valeur finale pendant la rotation de la bague de mise au point :
+
+- sur certains reflex avec objectif couplé (donc non manuel), cela se fait en
+  maintenant enfoncé le bouton de test de profondeur de champ (quand il y en a
+  un...) ;
+- sur les objectif manuels comme le Samyang 24 mm, il n'y a rien à faire par
+  définition (puisque l'ouverture est fixée manuellement ;-).
+
+Il est donc essentiel de bien connaître le fonctionnement de son matériel à cet
+égard.
+
+J'ai été étonné de ne trouver ma méthode décrite nulle part. Elle est simple et
+efficace. C'est cette méthode qui m'a permis de résoudre mes problèmes de
+netteté à l'infini.
+
+Enfin, pour toujours obtenir la netteté à l'infini, il vaut mieux tourner la
+bague de mise au point un peu plus vers l'infini que déterminé ci-dessus. Cela
+affectera la netteté de près mais pas à l'infini.
+
+J'ai affirmé un peu vite qu'il n'y avait pas de calcul à faire. Ce n'est pas
+tout à fait vrai car on ne peut pas partir à l'aveuglette non plus. En fait, il
+faut quand même savoir sur quelle ouverture partir.
+
+Considérant que le distance au droit du trépied est supérieure à 1 m entre le
+sol et le photoscope, on admettra que les distances hyperfocales inférieures à 2
+m sont admissibles. On jouera sur l'ouverture pour trouver l'hyperfocale qui
+convient.
+
+On ne le répètera jamais assez, mais la zone de netteté s'étend de la **moitié**
+de l'hyperfocale à l'infini quand on fait la mise au point à la distance
+hyperfocale!
+
+=============== =================== ============= ========= =========== =================
+Photoscope      Cercle de confusion Objectif      Ouverture Hyperfocale Zone de netteté
+=============== =================== ============= ========= =========== =================
+Sony Alpha 6000 0,018               Samyang 12 mm f/8       1 m         0,5 m à l'infini
+Sony Alpha 7R   0,03                Samyang 24 mm f/11      1,745 m     0.87 m à l'infini
+=============== =================== ============= ========= =========== =================
+
+Pour les objectifs manuels, une fois l'hyperfocale déterminée, j'immobilise la
+bague de l'ouverture et la bague de mise au point  à l'aide de `gaffer
+<http://fr.wikipedia.org/wiki/Gaffer>`_ !
+
+**Liens**
+
+- `Définition de l'hyperfocale sur Wikipédia <http://fr.wikipedia.org/wiki/Hyperfocale>`_ ;
+- `La profondeur de champ en photo <http://www.edgar-bonet.org/physique/pdc/>`_.
