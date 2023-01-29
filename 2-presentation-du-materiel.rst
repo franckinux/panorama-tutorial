@@ -102,13 +102,11 @@ Objectifs
 Le Samyang 24 mm :
 
 .. image:: images/samyang_241.jpg
-   :width: 800 px
    :align: center
 
 Le Samyang 12 mm :
 
 .. image:: images/Samyang12.jpg
-   :width: 800 px
    :align: center
 
 Ces objectifs présentent une intéressante caractéristique : il n'y a aucun

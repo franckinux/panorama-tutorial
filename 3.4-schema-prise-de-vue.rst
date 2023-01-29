@@ -75,11 +75,9 @@ J'adopterai donc un schéma à deux rangées entrelacées.
 Voici une visualisation des recouvrements pour ce schéma :
 
 .. image:: images/scheme_a6000-1.png
-   :width: 800 px
    :align: center
 
 .. image:: images/scheme_a6000-2.png
-   :width: 800 px
    :align: center
 
 Notez le décalage entre la rangée supérieure et la rangée inférieure de 25,7°.
@@ -113,11 +111,9 @@ Voici les schémas de prise de vue que j'utilise :
 Voici une visualisation des recouvrements pour ce 1er schéma :
 
 .. image:: images/schema-45-haut.png
-   :width: 800 px
    :align: center
 
 .. image:: images/schema-45-horiz.png
-   :width: 800 px
    :align: center
 
 J'essaie de réduire le nombre de photos en essayant un espacement de 60°
@@ -140,15 +136,12 @@ d'économiser 4 photos.
 Voici une visualisation des recouvrements pour le 2ème schéma :
 
 .. image:: images/schema-60-haut.png
-   :width: 800 px
    :align: center
 
 .. image:: images/schema-60-horiz.png
-   :width: 800 px
    :align: center
 
 .. image:: images/schema-60-milieu.png
-   :width: 800 px
    :align: center
 
 Les deux premières images montrent un recouvrement suffisant mais la troisième

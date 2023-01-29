@@ -37,7 +37,6 @@ Voir également vidéo qui présente une platine d'adaptation en forme de T :
 .. include:: 3.1-centrage.rst
 .. include:: 3.2-pupille-entree.rst
 .. include:: 3.3-hyperfocale.rst
-.. include:: 3.3-hyperfocale.rst
 .. include:: 3.4-schema-prise-de-vue.rst
 .. include:: 3.5-repere-nadir.rst
 .. include:: 3.6-correction-distorsion.rst
